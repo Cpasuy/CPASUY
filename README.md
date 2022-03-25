@@ -74,7 +74,6 @@
 </table>
 
 
-
 <h2>Languages Statistics</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPASUY)](https://github.com/CPASUY/github-readme-stats)
